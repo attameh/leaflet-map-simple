@@ -1,4 +1,5 @@
 Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+King Abdulaziz University,"شارع الملاعب، Jeddah 21589, Saudi Arabia",21.5006705,39.2594042,"شارع الملاعب، King Abdulaziz University, Jeddah 21589, Saudi Arabia",Match,Google
+Flamingo Mall,"4965 Prince Majid Rd, Al Aziziyah, Jeddah 23338-8498, Saudi Arabia",21.5521337,39.2022967,"4965 Prince Majid Rd, حي العزيزية، Jeddah 23338 8498, Saudi Arabia",Partial Match,Google
+Saudi Geological Survey,"Ahmed bin Mohammed Al Ashab, Al Wahah, ص . ب. : 54141 جدة 21514, Jeddah 21514, Saudi Arabia",21.557876,39.2353095,"ص . ب. : 54141 جدة 21514, Ahmed bin Mohammed Al Ashab, Al Wahah, Jeddah 21514, Saudi Arabia",Match,Google
+Al Diyafa Mall,"Al Hujoon St, AZ Zahir, Mecca 24227, Saudi Arabia",21.4409678,39.7977075,"Al Hujoon St, AZ Zahir, Mecca 24227, Saudi Arabia",Match,Google
